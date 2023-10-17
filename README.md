@@ -8,7 +8,7 @@
 > Linguagens
 
 <div align="left">
-    <img height="150px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=rngiovanna4&theme=dark&layout=compact"/>
+    <img height="150px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=rngiovanna4&theme=gruvbox_light&layout=compact"/>
 </div>
 
 > Linguagens, Bibliotecas e Ferramentas
