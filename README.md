@@ -5,11 +5,16 @@
 - 👩‍💻 Disponibilidade para trabalhar ou atuar como voluntária
 - ⚡ Curiosidades sobre mim: amo falar em público
 
+> Linguagens
 
-Linguagens  | <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>| <img title="Java" alt="Java"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />|
---------- | ------ | ------|
-**Bibliotecas** | <img title="Pandas" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"/>|
-**Ferramentas** | <img title="Jupyter" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />|  <img title="VScode" alt="VScode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />|
+<div align="left">
+    <img height="150px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=rngiovanna4&theme=dark&layout=compact"/>
+</div>
+
+> Linguagens, Bibliotecas e Ferramentas
+
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/> <img title="Java" alt="Java"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img title="Pandas" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> <img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"/>
+<img title="Jupyter" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />  <img title="VScode" alt="VScode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     
            
 <div>
