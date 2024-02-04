@@ -2,7 +2,7 @@
 
 - 🎯 Atualmente busco pela minha primeira oportunidade na área de T.I.
 - 📚 Estudando Python, Machine Learning e Ciência de Dados
-- 👩‍💻 Disponibilidade para trabalhar ou atuar como voluntária
+- 👩‍💻 Disponibilidade para vagas de trabalho
 - ⚡ Curiosidades sobre mim: amo falar em público
 
 > **Linguagens**
