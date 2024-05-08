@@ -1,9 +1,9 @@
 ### Olá, mundo! Me chamo Giovanna Rodrigues.
 
-- 🎯 Atualmente busco pela minha primeira oportunidade na área de T.I.
+- 🎯 Atualmente atuo como professora de TI
 - 📚 Estudando Python, Machine Learning e Ciência de Dados
-- 👩‍💻 Disponibilidade para vagas de trabalho
-- ⚡ Curiosidades sobre mim: amo falar em público
+- 👩‍💻 Graduada em GTI e Pós-graduada em BI, Big Data e IA
+- ⚡ Curiosidades sobre mim: gosto de falar em público
 
 > **Linguagens**
 
