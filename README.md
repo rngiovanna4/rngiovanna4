@@ -2,9 +2,10 @@
 
 - 🎯 Professora de TI
 - 📍 IF Goiano 
-- 📚 Estudando POO, Ciência de Dados e Desenvolvimento Web
 - 👩‍💻 Graduada em GTI, Pós-graduada em BI, Big Data e IA e em Docência na EPT
-- ⚡ Curiosidades sobre mim: amo gatos!
+- 📄 Meu Currículo: <a href="http://lattes.cnpq.br/4142850448023603">Lattes</a>
+- 📚 Estudando e Trabalhando com POO, Ciência de Dados e Desenvolvimento Web
+- ⚡ Curiosidades sobre mim: amo gatos! 🐾
 
 > **Linguagens**
 
